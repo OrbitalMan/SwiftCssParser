@@ -21,10 +21,10 @@ let package = Package(
         .target(
             name: "SwiftCssParser",
             dependencies: [],
-            path: "SwiftCssParser"),
+            path: "SwiftCssParser/SwiftCssParser"),
         .testTarget(
             name: "SwiftCssParserTests",
             dependencies: ["SwiftCssParser"],
-            path: "SwiftCssParserTests"),
+            path: "SwiftCssParser/SwiftCssParserTests"),
     ]
 )
