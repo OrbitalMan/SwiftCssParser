@@ -41,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		68F46B2B24A2544500746935 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		DB01C1411EE3D78F007D7308 /* SwiftDeviceCss.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftDeviceCss.swift; sourceTree = "<group>"; };
 		DB01C14F1EE419E3007D7308 /* iPad.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = iPad.css; path = Others/iPad.css; sourceTree = "<group>"; };
 		DB01C1501EE419E3007D7308 /* iPadPro.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = iPadPro.css; path = Others/iPadPro.css; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		DBC3DF821EDD4BF000E527FC = {
 			isa = PBXGroup;
 			children = (
+				68F46B2B24A2544500746935 /* Package.swift */,
 				DBC3DFA01EDD4C0D00E527FC /* Others */,
 				DBC3DF8D1EDD4BF000E527FC /* SwiftCssParser */,
 				DBC3DFB11EE2D9D000E527FC /* SwiftCssParserTests */,
